@@ -1,6 +1,7 @@
 # undo
 
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/chrboe/undo)
+[![Coverage Status](https://coveralls.io/repos/github/chrboe/undo/badge.svg?branch=master)](https://coveralls.io/github/chrboe/undo?branch=master)
 
 `undo` is a very small Go package which aims to abstract the concept of executing
 a function while being able to roll back its effects later. To demonstrate,
